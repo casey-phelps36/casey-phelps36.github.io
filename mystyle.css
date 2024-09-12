@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(168, 215, 247);
+}
+h1 {
+    color: rgb(0,69,175);
+}
+#content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(215, 234, 250);
+}
