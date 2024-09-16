@@ -1,12 +1,45 @@
 body {
-    background-color: rgb(168, 215, 247);
+    background-color: #355e3b;
 }
 h1 {
-    color: rgb(0,69,175);
+    color: #355e3b;
+    margin: 10px;
 }
-#content {
+#banner {
     width: 800px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(215, 234, 250);
+}
+
+#about {
+    background-image: url(myBackground.jpg);
+}
+
+#content {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(218, 255, 239);
+}
+
+#intro{
+    width: 95%;
+    clear: both;
+    margin: auto;
+}
+
+#hobbies{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    clear: both;
+}
+
+#clickMe{
+    width: 95%;
+    clear: both;
+    margin: auto;
+}
+
+p {
+    margin: 10px;
 }
